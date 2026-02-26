@@ -63,7 +63,7 @@ To start my career as an **Embedded Test / Embedded Engineer**, contributing to 
 
 ## 📫 Contact
 
-- GitHub: github.com/tthinhct1s
+- GitHub: [github.com/tthinhct1s](https://github.com/tthinhct1s)
 - Email: quocthinhtruong3110@gmail.com
 
 ---
