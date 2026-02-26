@@ -63,8 +63,8 @@ To start my career as an **Embedded Test / Embedded Engineer**, contributing to 
 
 ## 📫 Contact
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: github.com/tthinhct1s
+- Email: quocthinhtruong3110@gmail.com
 
 ---
 
